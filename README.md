@@ -4,6 +4,6 @@ Some of these will be a work in progress or were build as demonstrations for the
 
 1) A CNN and an ANN to predict housing prices from mixed image and dataframe data.
 
-2) A multi-task CNNk to predict digits and colours from an image input.
+2) A multi-task CNN to predict digits and colours from an image input.
 
 3) A markdown file to explain semantic image segmentation convolutional neural networks to the research group.
